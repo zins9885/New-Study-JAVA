@@ -23,6 +23,7 @@ public class 배열공부실습1 {
 
 		System.out.printf("\n총 개수 : %d개", cnt);
 
+		System.out.println("test");
 	
 
 	}
