@@ -2,6 +2,7 @@ package view;
 
 public class Main_display {
 
+	
 	// 역활 : 단순하게 출력만 보여준다.
 	
 	public void render ( ) {
