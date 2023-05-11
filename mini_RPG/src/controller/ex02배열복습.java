@@ -24,6 +24,7 @@ public class ex02배열복습 {
 			}
 
 			System.out.println();
+			System.out.println('TEST');
 		}
 
 	}
